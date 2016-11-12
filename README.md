@@ -1,7 +1,7 @@
 xprinter
 =====
 
-CUPS filter for thermal printer Xprinter
+CUPS driver for thermal printer Xprinter
 
 Tested with model XP-C260H, should work with most others as well.
 
